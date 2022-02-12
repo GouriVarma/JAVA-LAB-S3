@@ -1,3 +1,6 @@
+/*Write a java program that writes your name and address into a file with help of file writer
+class and read the contents from file and display in the console using appropriate reader class.*/
+
 import java.io.*;
 import java.util.*;
 class details
