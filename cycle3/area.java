@@ -32,6 +32,6 @@ class area {
     void method(float bl,float h)
     {
         double areac = 0.5*bl*h;
-        System.out.println("Area of the circle is: "+areac);
+        System.out.println("Area of the triangle is: "+areac);
     }
 }
